@@ -186,6 +186,7 @@ elif page == "📜 Resume":
     st.markdown("### 💼 Internships")
     st.write("- AICTE x Google Internship")
     st.write("- ML Intern at InternPe")
+    st.write("- Lenovo Internship Automated their CSA testing process into a hybrid framework")
 
     st.markdown("### 🧠 Soft Skills")
     st.write("Leadership • Problem Solving • Adaptability • Communication")
@@ -201,5 +202,5 @@ elif page == "📬 Contact":
     st.write("Interested in working together or just want to say hi?")
     st.markdown("- 📧 Email: `mailhkris@gmail.com`")
     st.markdown("- 📞 Phone: `+91-9344779755`")
-    st.markdown("- 💼 [LinkedIn](https://linkedin.com/in/harikrishnanalakesan)")
+    st.markdown("- 💼 [LinkedIn](https://www.linkedin.com/in/harikrishnan-alakesan-05a442215/)")
     st.markdown("- 🐙 [GitHub](https://github.com/HarikrishnanAlakesan)")
